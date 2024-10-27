@@ -1,5 +1,8 @@
 {
-  "name": "fronted",
+  "engines":{
+    "node":"21.5.0"
+  },
+  "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
